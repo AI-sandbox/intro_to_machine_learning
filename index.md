@@ -57,7 +57,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 - Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1Q4qTAr6PcHgA4J_ClYR_F1pW8ZNHxlLp/view?usp=sharing)]
   - ISL: Section 5.1 and Section 13.2 (Cross-validation)
-    - Many Psychology Findings Not as Strong as Claimed, Study Says" [(New York Times)](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html)
+    - Many Psychology Findings Not as Strong as Claimed, Study Says" [[article](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html), New York Times]
   - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
   - ESL: Section 3.5.1 (Principal Components Regression)
 
